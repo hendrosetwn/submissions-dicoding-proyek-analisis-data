@@ -11,6 +11,7 @@ seaborn = "*"
 jupyter = "*"
 streamlit = "*"
 babel = "*"
+importlib-resources = "*"
 
 [dev-packages]
 
